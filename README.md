@@ -1,5 +1,5 @@
 <h1 align="center">السلام عليكم 👋, I'm Hasan</h1>
-<h3 align="center">Backend & DevOps Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Backend & DevOps Enthusiast |  Learner</h3>
 
 
 ## 🧠 About Me
@@ -27,9 +27,4 @@
   <a href="https://www.linkedin.com/in/hasibul-hasan-68972033a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
-
-
-<p align="center">
-  ⚡ <i>"Always curious. Always building."</i>
 </p>
